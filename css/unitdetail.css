@@ -1,0 +1,151 @@
+.whitecolor {
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+}
+
+.background {
+  height: 280px;
+  background-image: url(../img/img1.jpg);
+}
+
+.padding {
+  padding-top: 50px;
+}
+
+#backgroundContainer {
+  background: url(../img/);
+}
+#pageContainer {
+  width: 960px;
+  margin: auto auto;
+  padding: 0;
+}
+
+
+#head{
+  background: none;
+  background-color: #051d45;
+  min-height: 120px;
+  width: 960px;
+  padding: 0px;
+  margin: 0px;
+  position: relative;
+}
+
+#headingcontainer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 40px 15px 10px 15px;
+  width: 725px;
+}
+
+#groupName {
+  font-family: "museo300", "Museo300FF", Arial;
+  color: #ADADAD;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+#pageHeading h1{
+  position: relative;
+  border: 0 none;
+  color: white;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: 0;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  text-decoration: none;
+  word-spacing: normal;
+  margin-bottom: 0px;
+  left: 0px;
+  top: 0px;
+  display: block;
+  font-weight: normal;
+}
+
+#page {
+  margin: 0 auto;
+  width: 90%;
+  padding: 0;
+  text-align: left;
+  position: relative;
+  background: #fff;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 21px;
+  padding: 0px;
+  margin: 23px 0 15px;
+  color: #333333;
+  font-family: "museo300", "Museo300FF", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+}
+
+p {
+  margin: 0 0 .8em 0;
+  color: #2c2c2c;
+}
+
+strong {
+  font-weight: bold;
+}
+#page {
+  margin: 0 auto;
+  width: 960px;
+  padding: 10px;
+  text-align: left;
+  position: relative;
+  background: #fff;
+}
+.courseTable{
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  clear: left;
+  font-size: 13px;
+  line-height: 19px;
+  color: #2C2C2C;
+  border-spacing: 2px;
+  border-collapse: separate;
+}
+
+.table {
+  border: none;
+  empty-cells: show;
+}
+
+.courseTable tr.one {
+  background-color: #F6F6F4;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.courseTable tr.two {
+  background-color: #EEEEEA;
+}
+
+h3 {
+  font-size: 15px;
+  line-height: 21px;
+  padding: 0px;
+  margin: 1.2em 0 0.4em 0;
+  color: #2C2C2C;
+}
+
+.courseTable td {
+  vertical-align: top;
+  padding: 10px;
+}
+
+td{
+  border: none;
+}

@@ -1,0 +1,56 @@
+.academic_list {
+  padding-top: 20px;
+  margin-left: 20px;
+}
+
+p {
+  font-size: 25px;
+  margin-left: 20px;
+  padding-top: 15px;
+}
+
+table {
+
+  border-collapse: collapse;
+  width: 100%;
+  line-height: 45px;
+  color: #2C2C2C;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+.list tr.one {
+  background-color: #EEEEEA;
+}
+
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 80%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.CollaContent {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  width:80%;
+}
+
+.contentArea p{
+  font-size:15px;
+}

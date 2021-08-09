@@ -1,0 +1,36 @@
+.background {
+  height: 280px;
+  background-image: url(../img/img1.jpg);
+}
+
+.padding {
+  padding-top: 50px;
+}
+
+.chooseTimetable {
+  margin-top:15px;
+  bottom: 0;
+  background: none;
+  margin-left: 15px;
+}
+.module {
+  background-color: white;
+  border:1px solid;
+  border-color: #051d45;
+  border-radius: 1px;
+  top:10px;
+  left:10px;
+  right:10px;
+  bottom: 10px;
+  text-align: center;
+
+}
+
+.choice {
+
+}
+
+.choice p{
+  display: inline;
+  text-align: center;
+}

@@ -1,0 +1,28 @@
+.background {
+  height: 280px;
+  background-image: url(../img/img1.jpg);
+}
+
+.padding {
+  padding-top: 50px;
+}
+.unitEnrollment h2{
+  padding-top: 20px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 25px;
+}
+
+.enrolBtn {
+
+  width:95%;
+}
+#enrolbtn{
+  float: right;
+}

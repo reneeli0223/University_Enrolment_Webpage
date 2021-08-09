@@ -1,0 +1,66 @@
+* {
+  margin:0;
+  padding:0;
+}
+ .register {
+  height:1080px;
+  width:100%;
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../img/background.png);
+  background-position:center;
+  position:absolute;
+}
+.form-box {
+  width: 400px;
+  height:600px;
+  position:relative;
+  margin: 6% auto;
+  background: #fff;
+  padding:5px;
+  overflow:hidden;
+}
+
+th, td {
+  padding: 15px;
+
+}
+
+.input-group{
+  top:50px;
+  left: 50px;
+  position: absolute;
+  width: 300px;
+
+}
+
+.input-field{
+  width:100%;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 1px solid #999;
+  outline: none;
+  background: transparent;
+}
+
+.registerbtn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background-image: linear-gradient(to right, #ff105f, #ffad06);
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+#student {
+  left:50px;
+}
+
+#staff {
+  left:450px;
+}
